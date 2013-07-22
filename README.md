@@ -1,16 +1,19 @@
-Functions:
-====================
+# vt Discounts for UserGroup Combinations
+## module for OXID eShop
+
+## Functions:
+
 this module allows you to assign discounts to users who are in multiple usergroups at the same time
 
 
-Installation:
-====================
+## Installation:
+
 put the vt-dfugc folder into the modules directory in your shop.
 You will find sql query and code snippet in the module description in OXID backend
 
 
-vt Discounts for UserGroup COmbinations (module for OXID eSales)
-====================
+
+## licence
 Copyright (C) 2012  Marat Bedoev
 
 This program is free software;
@@ -21,4 +24,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>
 
-<img src="https://ma-be.info/piwik/piwik.php?idsite=2&amp;rec=1&mp;action_name=vt_dfugc" style="border:0" alt="" />
+<img src="https://ma-be.info/piwik/piwik.php?idsite=2&rec=1&action_name=vt-dfugc" style="border:0" alt="" />
